@@ -1,4 +1,4 @@
-# Quiroga_fabricio_recuperatorio
+# Quiroga_fabricio
 utn dv122
 
 ---
